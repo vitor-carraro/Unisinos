@@ -1,0 +1,5 @@
+Analise os códigos do Exemplo 2 fornecido, e responda as seguintes perguntas:
+a) O que faz o código do arquivo ‘class_array.h’?
+ele implementa uma nova array e com a função print imprime ela.
+b) Qual será a saída a partir da execução do código do arquivo ‘principal.cpp’?
+a saida esperada será:"4 3 1 2"
