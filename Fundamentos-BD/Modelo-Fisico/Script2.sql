@@ -1,0 +1,12 @@
+USE Exercicio1;
+
+ALTER TABLE Medicos ADD endereco VARCHAR(100);
+
+ALTER TABLE Medicos MODIFY nome VARCHAR(100) NOT NULL;
+
+ALTER TABLE Exames ADD nome VARCHAR(100) NOT NULL;
+
+ALTER TABLE Pacientes
+DROP COLUMN diversos;
+
+DROP TABLE IF EXISTS Convenios;
